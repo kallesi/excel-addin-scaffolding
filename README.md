@@ -1,4 +1,4 @@
-# Template for creating a Excel Add-in in React with Functions
+# Template for creating a Excel Add-in in React with Custom Functions
 
 A scaffolding template for a basic Excel Add-in in Typescript
 
